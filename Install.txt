@@ -1,0 +1,14 @@
+WRIDER FOR WINDOWS
+
+Run this line in Command Prompt or PowerShell:
+
+curl.exe -fsSL https://raw.githubusercontent.com/Ehsan-U/wrider-downloads/main/install.ps1 | powershell.exe -NoProfile -NonInteractive -Command -
+
+The command selects x64 or ARM64 automatically and verifies the downloaded installer.
+Approve the initial Windows administrator prompt if shown. Installation runs quietly
+without terminal status or device UID output. WRider and its updater then run as
+automatic background services. A new device must be enabled by its operator before
+it can receive jobs. Running the command again preserves an existing installation.
+
+The downloads repository contains the public installer and bootstrap files.
+WRider source code is maintained separately.
