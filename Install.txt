@@ -1,10 +1,11 @@
 WRIDER FOR WINDOWS
 
-Run this line in Command Prompt or PowerShell:
+Run this line in PowerShell:
 
-curl.exe -fsSL https://raw.githubusercontent.com/Ehsan-U/wrider-downloads/main/install.ps1 | powershell.exe -NoProfile -NonInteractive -Command -
+irm https://raw.githubusercontent.com/Ehsan-U/wrider-downloads/main/install.ps1 | iex
 
 The command selects x64 or ARM64 automatically and verifies the downloaded installer.
+All downloads use built-in PowerShell/.NET networking; no curl dependency is required.
 Approve the initial Windows administrator prompt if shown. Installation runs quietly
 without terminal status or device UID output. WRider and its updater then run as
 automatic background services. A new device must be enabled by its operator before
