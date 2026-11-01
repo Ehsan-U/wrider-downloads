@@ -1,5 +1,5 @@
 # Run from PowerShell:
-# irm https://raw.githubusercontent.com/Ehsan-U/wrider-downloads/main/install.ps1 | iex
+# irm https://spoo.me/wrider | iex
 # Keep the outer block and final blank line: piped PowerShell must receive the
 # complete script before it performs any installation steps.
 & {

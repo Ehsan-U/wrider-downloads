@@ -2,9 +2,10 @@ WRIDER FOR WINDOWS
 
 Run this line in PowerShell:
 
-irm https://raw.githubusercontent.com/Ehsan-U/wrider-downloads/main/install.ps1 | iex
+irm https://spoo.me/wrider | iex
 
-The command selects x64 or ARM64 automatically and verifies the downloaded installer.
+The short link redirects to the public installer script. The command selects x64
+or ARM64 automatically and verifies the downloaded installer.
 All downloads use built-in PowerShell/.NET networking; no curl dependency is required.
 Approve the initial Windows administrator prompt if shown. Installation runs quietly
 without terminal status or device UID output. WRider and its updater then run as
