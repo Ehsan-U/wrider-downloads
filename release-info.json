@@ -1,0 +1,9 @@
+{
+  "version": "1.4.0",
+  "sourceCommit": "0a39752bfdbecf59cd0267f2c1bd61cf33fb62f5",
+  "components": {
+    "setup": "1.4.0",
+    "worker": "1.4.0",
+    "updater": "1.4.0"
+  }
+}

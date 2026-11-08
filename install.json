@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.1",
+  "version": "1.4.0",
   "assets": {
     "win-x64": {
-      "url": "https://github.com/Ehsan-U/wrider-downloads/releases/download/v1.3.1/WRider-Setup-win-x64.exe",
-      "length": 137577475,
-      "sha256": "543aff30346c593dced91dafac985f8b08fdbcab1c80e15560134f3bae4606c3"
+      "url": "https://github.com/Ehsan-U/wrider-downloads/releases/download/v1.4.0/WRider-Setup-win-x64.exe",
+      "length": 137692163,
+      "sha256": "a26b1b313202fa05f7f1eaa85d157ae02cd17efd3ec2404cf7ac13f893cca634"
     },
     "win-arm64": {
-      "url": "https://github.com/Ehsan-U/wrider-downloads/releases/download/v1.3.1/WRider-Setup-win-arm64.exe",
-      "length": 143868943,
-      "sha256": "c1db9de547795423e763283f889a5b5a53165aa2102efdb88aa19de0724ba7ec"
+      "url": "https://github.com/Ehsan-U/wrider-downloads/releases/download/v1.4.0/WRider-Setup-win-arm64.exe",
+      "length": 144032823,
+      "sha256": "78925e63b3bff7599c871e80f566732176cd93064f09ab709a6e4b5df7fbe879"
     }
   }
 }
