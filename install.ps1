@@ -89,8 +89,7 @@ namespace WRider.Bootstrap {
         }
         $runtime = switch ($nativeMachine) {
             0x8664 { 'win-x64' }
-            0xaa64 { 'win-arm64' }
-            default { throw 'WRider supports x64 and ARM64 Windows only.' }
+            default { throw 'WRider supports x64 Windows only.' }
         }
 
         $temporary = Join-Path ([IO.Path]::GetTempPath()) ('WRider-Install-' + [Guid]::NewGuid().ToString('N'))
