@@ -1,9 +1,9 @@
 {
-  "version": "1.5.0",
-  "sourceCommit": "a8ee522a4cd10ba51dcd305d2258e05a11e16b9d",
+  "version": "1.6.1",
+  "sourceCommit": "65e419ee91d61446f3459cc9427daf3c0c3cce9d",
   "components": {
-    "setup": "1.5.0",
-    "worker": "1.5.0",
-    "updater": "1.5.0"
+    "setup": "1.6.1",
+    "worker": "1.6.1",
+    "updater": "1.6.1"
   }
 }
