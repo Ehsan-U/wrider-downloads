@@ -1,9 +1,9 @@
 {
-  "version": "1.6.1",
-  "sourceCommit": "65e419ee91d61446f3459cc9427daf3c0c3cce9d",
+  "version": "1.7.0",
+  "sourceCommit": "7d10eb6d4b40804371d805f9243074ce27d90d04",
   "components": {
-    "setup": "1.6.1",
-    "worker": "1.6.1",
-    "updater": "1.6.1"
+    "setup": "1.7.0",
+    "worker": "1.7.0",
+    "updater": "1.7.0"
   }
 }
