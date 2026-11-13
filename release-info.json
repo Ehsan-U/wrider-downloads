@@ -1,9 +1,9 @@
 {
-  "version": "1.8.0",
-  "sourceCommit": "7b4676a3901b8425c3f991c417101d77ba97ecf2",
+  "version": "1.9.0",
+  "sourceCommit": "3e3575912d05ee1765e9a54177af5b3bc3ae7a8f",
   "components": {
-    "setup": "1.8.0",
-    "worker": "1.8.0",
-    "updater": "1.8.0"
+    "setup": "1.9.0",
+    "worker": "1.9.0",
+    "updater": "1.9.0"
   }
 }
